@@ -2,9 +2,9 @@
 
 [![Language](https://img.shields.io/badge/Language-JavaScript-239120)](https://learn.microsoft.com/ru-ru/dotnet/csharp/tour-of-csharp/overview)
 [![OS](https://img.shields.io/badge/OS-Linux%2C%20Windows%2C%20MacOS-0078D4)](https://docs.abblix.com/docs/technical-requirements)
-[![GitHub Release](https://img.shields.io/github/v/release/Abblix/Oidc.Server)](#)
-[![GitHub Release Date](https://img.shields.io/github/release-date/Abblix/Oidc.Server)](#)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Abblix/Oidc.Server)](#)
+[![GitHub Release](https://img.shields.io/github/v/release/algorithmicprogrammer/business-landing-page)](#)
+[![GitHub Release Date](https://img.shields.io/github/release-date/algorithmicprogrammer/business-landing-page)](#)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/algorithmicprogrammer/business-landing-page)](#)
 [![Free](https://img.shields.io/badge/Free_for_Commercial_Use-brightgreen)](#-license)
 
 
