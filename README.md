@@ -1,9 +1,13 @@
 <a id="readme-top"></a>
+![GitHub contributors](https://img.shields.io/github/contributors-anon/algorithmicprogrammer/business-landing-page)
+![GitHub Created At](https://img.shields.io/github/created-at/algorithmicprogrammer/business-landing-page)
+![GitHub last commit](https://img.shields.io/github/last-commit/algorithmicprogrammer/business-landing-page)
+![GitHub language count](https://img.shields.io/github/languages/count/algorithmicprogrammer/business-landing-page)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/algorithmicprogrammer/business-landing-page)
+![GitHub License](https://img.shields.io/github/license/algorithmicprogrammer/business-landing-page)
+![GitHub repo size](https://img.shields.io/github/repo-size/algorithmicprogrammer/business-landing-page)
 
-[![Language](https://img.shields.io/badge/Language-JavaScript-239120)](https://learn.microsoft.com/ru-ru/dotnet/csharp/tour-of-csharp/overview)
-[![OS](https://img.shields.io/badge/OS-Linux%2C%20Windows%2C%20MacOS-0078D4)](https://docs.abblix.com/docs/technical-requirements)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/algorithmicprogrammer/business-landing-page)](#)
-[![Free](https://img.shields.io/badge/Free_for_Commercial_Use-brightgreen)](#-license)
+
 
 
 <h1 align="center">Business Landing Page</h1>
